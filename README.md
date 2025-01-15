@@ -11,8 +11,12 @@ Escribir y explicar los pasos de cómo realizar un endless runner (el dinosaurio
   - Game Over
   - Puntaje
  
- ### 📑 Diapositivas que complementan al juego.
+ ### 📑 <a href="https://github.com/pintosmicaela/endless-runner-to-explain/blob/main/document/diapositivas-endless-runner.pdf" >Diapositivas que complementan al juego. </a>
 
  ## 🎮 Gameplay online 
 
- https://pintosmicaela.itch.io/endless-runner
+ <div align="center">
+   <img src="https://github.com/pintosmicaela/endless-runner-to-explain/blob/main/gameplay.gif" alt="Gameplay GIF" width="auto" height="auto">
+
+   ### 🖥️ <a href="https://pintosmicaela.itch.io/endless-runner">Link</a>
+ </div>
