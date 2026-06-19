@@ -1,2 +1,25 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Forzar a Git a manejar los finales de línea automáticamente
+* text=auto
+
+# Asegurar que los archivos de código usas el estándar nativo del OS al clonar
+*.cs text diff=csharp
+*.cginc text
+*.shader text
+
+# Asegurar que los archivos de Unity conserven sus saltos de línea LF (estándar de Unity)
+*.yaml text
+*.meta text
+*.unity text
+*.asset text
+*.prefab text
+
+# Marcar archivos binarios para que Git no intente tocarlos
+*.jpg binary
+*.png binary
+*.jpg binary
+*.psd binary
+*.fbx binary
+*.anim binary
